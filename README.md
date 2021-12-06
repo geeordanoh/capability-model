@@ -1,17 +1,17 @@
-# Open Source DSM Engineering Capability Model
+# Open Source Engineering Capability Model
 
-![logo](attachments/logos.png)
+
 
 ## Introduction
 
-In this document, you can find a description of the Open Source DSM Capability Model that serves as a reference path for our engineering teams to progress in their journey towards engineering excellence. As preached by its name, the model is *open source* (this is why it is versioned here), and we very much welcome and encourage contributions from everybody as described in the [Contribution](#contribution-model) section.
+In this document, you can find a description of an Open Source Capability Model that serves as a reference path for our engineering teams to progress in their journey towards engineering excellence. As preached by its name, the model is *open source* (this is why it is versioned here), and we very much welcome and encourage contributions from everybody as described in the [Contribution](#contribution-model) section.
 
 ## How it works
 
-The DSM capability model was created with the intent to:
+This capability model was created with the intent to:
 
 - Let engineering teams recurrently self-assess themselves (which is also part of one of the practices in the [Process](#1-process-15) category).
-- Help teams evolve towards a better way of working using best practices (a bit like the evolution of IKEA logo over time).
+- Help teams evolve towards a better way of working using best practices.
 
 The capability model is composed of three parts, *capabilities*, *scorecards*, and *capability levels*:
 
@@ -108,7 +108,7 @@ Please refer to the [Usage Example](#usage-example) section for an overview.
 - [ ] Every release produces automated release notes in terms of JIRA issues included in that release.
 - [ ] The team regularly brings working software at sprint demos, all user stories are demoed via working software.
 - [ ] The team regularly performs design sprints.
-- [ ] The team adopts IKEA's design system.
+- [ ] The team adopts the Company's design system.
 - [ ] All our repositories are under continuous deployment.
 - [ ] All our repos are under continuous delivery.
 - [ ] Continuous delivery/deployment is automatically generated via automated provisioning (e.g., backstage).
